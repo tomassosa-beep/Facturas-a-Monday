@@ -1,0 +1,5 @@
+{
+  "name": "Factura a Monday",
+  "description": "Herramienta OCR con IA para convertir facturas (PDF/Imágenes) a Excel compatible con Monday.com.",
+  "requestFramePermissions": []
+}
